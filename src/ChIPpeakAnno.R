@@ -10,7 +10,7 @@ library(dplyr)
 #library(org.Mm.eg.db)
 
 ###
-setwd('C:/Users/Артём/Desktop/HSE/Бионформатика/Проект/Ямпольская/project_x/src/')
+setwd('../Desktop/HSE/Бионформатика/Проект/src/')
 
 peaks <- toGRanges(paste0('../data/', 'H3K36me3_HepG2.intersect_with_Homo_Li_KPDS.bed')
                    , format="BED")

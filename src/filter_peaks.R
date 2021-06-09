@@ -3,7 +3,7 @@
 library(ggplot2)
 library(dplyr)
 
-#setwd('C:/Users/Артём/Desktop/HSE/Бионформатика/Проект/Ямпольская/src/')
+#setwd('../Desktop/HSE/Бионформатика/Проект/src/')
 name_1 <- 'H3K36me3_HepG2.ENCFF924TKB.hg19'
 name_2 <- 'H3K36me3_HepG2.ENCFF296VZN.hg19'
 outdir <- '../images/'

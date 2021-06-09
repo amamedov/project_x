@@ -1,6 +1,6 @@
 library(ggplot2)
 
-setwd('C:/Users/Артём/Desktop/HSE/Бионформатика/Проект/Ямпольская/project_x/src/')
+setwd('../Desktop/HSE/Бионформатика/Проект/src/')
 
 names <- c('H3K36me3_HepG2.intersect_with_Homo_Li_KPDS')
 

@@ -1,7 +1,7 @@
 # install.packages('ggplot2')
 library(ggplot2)
 
-#setwd('C:/Users/Артём/Desktop/HSE/Бионформатика/Проект/Ямпольская/src')
+#setwd('../Desktop/HSE/Бионформатика/Проект/src')
 
 names <- c('H3K36me3_HepG2.ENCFF296VZN.hg19',
            'H3K36me3_HepG2.ENCFF296VZN.hg38',

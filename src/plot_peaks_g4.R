@@ -1,6 +1,6 @@
 library(ggplot2)
 
-setwd('C:/Users/Артём/Desktop/HSE/Бионформатика/Проект/Мамедов/hse21_H3K36me3_G4_human/src/')
+setwd('../Desktop/HSE/Бионформатика/Проект/src/')
 
 names <- c('Homo_Li_KPDS')
 

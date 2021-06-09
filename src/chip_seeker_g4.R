@@ -8,7 +8,7 @@
 library(ChIPseeker)
 library(TxDb.Hsapiens.UCSC.hg19.knownGene)
 library(clusterProfiler)
-setwd('C:/Users/Артём/Desktop/HSE/Бионформатика/Проект/Ямпольская/project_x/src/')
+setwd('../Desktop/HSE/Бионформатика/Проект/Ямпольская/src/')
 ###
 data_dir <- '../data/'
 out_dir <- '../images/'
